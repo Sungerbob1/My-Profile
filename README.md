@@ -1,59 +1,87 @@
-# My-Profile
+<h1 align="center">🚗 Yasin | FiveM Car Developer</h1>
 
-# 🚗 Hi, I'm Süngerbob 
+<p align="center">
+  <i>Building high-quality vehicles & realistic driving experiences for FiveM</i>
+</p>
 
-### 🛠️ FiveM Car Developer | Vehicle Modding Specialist
-
-I specialize in creating, optimizing, and customizing vehicles for FiveM servers. From realistic handling to high-quality models — I bring cars to life in GTA V.
-
----
-
-## 🚀 What I Do
-
-* 🚗 Custom FiveM vehicles (add-ons & replace)
-* ⚙️ Handling tuning & performance optimization
-* 🎨 Liveries & vehicle customization
-* 🔧 Bug fixing & vehicle conversions
-* 📦 Ready-to-use car packs for servers
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=FiveM+Vehicle+Developer;Handling+Specialist;GTA+V+Modding+Expert" />
+</p>
 
 ---
 
-## 🧰 Tools & Technologies
+## 🧠 About Me
 
-![FiveM](https://img.shields.io/badge/-FiveM-black?style=for-the-badge)
-![GTA V](https://img.shields.io/badge/-GTA%20V-grey?style=for-the-badge)
-![Photoshop](https://img.shields.io/badge/-Photoshop-blue?style=for-the-badge)
-
----
-
-## 🔥 Featured Projects
-
-* 🚓 Custom Police Vehicles Pack
-* 🏎️ High Performance Sports Cars
-* 🚕 Realistic Taxi System Vehicles
-* 🚚 Utility & Service Vehicles
-
-👉 Check my repositories for downloads & previews
+💻 Specialized in FiveM vehicle development
+🚗 Passion for realistic car physics & design
+🎯 Focused on performance, quality & detail
 
 ---
 
-## 📊 GitHub Stats
+## 🛠️ Tech Stack
 
-![Yasin's GitHub stats](https://github-readme-stats.vercel.app/api?username=JOUWNAAM\&show_icons=true\&theme=tokyonight)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=blender,ps,github" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/FiveM-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GTA_V-555555?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ZModeler-1E90FF?style=for-the-badge" />
+</p>
 
 ---
 
-## 📫 Contact Me
+## 🚀 Featured Work
 
-* Discord: .sungerbobb
-* Email: info@sungerbob.nl
+🚓 Custom Police Vehicles
+🏎️ High Performance Cars
+🚕 Realistic Taxi Vehicles
+🚚 Service & Utility Vehicles
+
+<p align="center">
+  👉 Check my repositories for previews & downloads
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JOUWNAAM&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=JOUWNAAM&theme=tokyonight&hide_border=true" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JOUWNAAM&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/JOUWNAAM/JOUWNAAM/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 📫 Contact
+
+<p align="center">
+  <a href="https://discord.com">
+    <img src="https://img.shields.io/badge/Discord-Contact-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 ## ⚡ Fun Fact
 
-I spend more time tuning car handling than actually driving them 😅
+> I tune cars more than I drive them 😅
 
 ---
 
-⭐ Don't forget to star my projects if you like them!
+<p align="center">
+  ⭐ If you like my work, consider following me!
+</p>
