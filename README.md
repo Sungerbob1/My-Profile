@@ -1,4 +1,4 @@
-<h1 align="center">🚗 Süngerbob | FiveM Car Development </h1>
+<h1 align="center">🚗 Süngerbob | FiveM Car Developer</h1>
 
 <p align="center">
   <i>Building high-quality vehicles & realistic driving experiences for FiveM</i>
@@ -27,6 +27,16 @@
   <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+---
+
+## 📊 Skills & Progress
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Lua-Learning-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XML-Advanced-ff6600?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Photoshop-Expert-001E36?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
 </p>
 
 ---
